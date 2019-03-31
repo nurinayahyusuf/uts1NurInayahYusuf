@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; //wajib
+using namespace std;
 int main ()
 {
     cout<<"Nama           : Nur Inayah Yusuf"<<endl;
